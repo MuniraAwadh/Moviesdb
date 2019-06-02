@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="sort_by_key">sort_by_key</string>
+    <string name="popular">popular</string>
+    <string name="toprate">top_rated</string>
+    <string name="toprate_value">top_rated</string>
+    <string name="popular_value">popular</string>
+    <string name="sort_by_pref_title">Sort By</string>
+    <string name="settings">Settings</string>
+    <string name="app_name">Movies Application</string>
+    <string name="favorite">Favorites</string>
+    <string name="favorite_value">favorites</string>
+    <string-array name="sort_by_pref_entry_array">
+        <item>@string/popular</item>
+        <item>@string/toprate</item>
+        <item>@string/favorite</item>
+    </string-array>
+    <string-array name="sort_by_pref_values_array">
+        <item>@string/popular_value</item>
+        <item>@string/toprate_value</item>
+        <item>@string/favorite_value</item>
+    </string-array>
+    <string name="trailer_thumbnail_description">Trailer Thumbnail</string>
+    <string name="trailers_title">Trailers</string>
+    <string name="reviews_title">Reviews</string>
+</resources>
